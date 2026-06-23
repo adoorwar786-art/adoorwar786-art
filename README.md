@@ -14,11 +14,11 @@ TryHackMe Progress
 
 Completed Rooms:
 
-Offensive Security Intro
-Defensive Security Intro
-Careers in Cyber Security
+Offensive Security Intro,
+Defensive Security Intro,
+Careers in Cyber Security,
 What is Networking?
-DNS in Detail
+DNS in Detail,
 
 TryHackMe Profile:
 https://tryhackme.com/p/adoorwar786
